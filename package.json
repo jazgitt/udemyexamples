@@ -1,0 +1,17 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "Playwright E2E Hello",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "hello",
+    "playwright"
+  ],
+  "author": "JW",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^24.10.1"
+  }
+}
